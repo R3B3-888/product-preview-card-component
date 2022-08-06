@@ -47,7 +47,7 @@ main {
     padding: 30px;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 p {
